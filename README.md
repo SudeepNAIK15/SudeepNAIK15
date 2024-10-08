@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sudeep
-- 👀 I’m interested at UI/UX ,Cyber Security , App/web development ,ART / VISUAL GRAPHICS
-- 🌱 I’m currently learning APP advance DEVELOPMENT / DevOPS/PowerBI/HTML5 CSS  and JAVA,MACHINE LEARNING language
-- 💞️ I’m looking to collaborate with GOOD DEVELOPERS,DESIGNERS AND CONTENT CREATORS
+- 👋 Hi, I’m Sudeep pfrofessionally Software Engineer passionately Graphic designer ,Cinematographer, photographer,Script writer
+- 👀  UI/UX ,Cyber Security , App/web development ,ART / VISUAL GRAPHICS are my main Domains
+- 🌱 currently learning DevOPS/PowerBI/ #Core MACHINE LEARNING 
+- 💞️ I’m looking to collaborate with GOOD DEVELOPERS,DESIGNERS AND CONTENT CREATORS.
 - 📫 How to reach me +91 7892955036 or sudeepgnaik01@gmail.com
 
 <h2><i>Also Follow me around the Web:</i><br>
