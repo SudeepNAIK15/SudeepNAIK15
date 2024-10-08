@@ -1,10 +1,10 @@
 <h1> 👋 Hi, I’m Sudeep professionally Software Engineer Passionately Graphic designer ,Cinematographer, photographer,Script writer </h1>
-<h2> 👀  UI/UX ,Cyber Security , App/web development ,ART / VISUAL GRAPHICS are my main Domains</h2>
+<h3> 👀  UI/UX ,Cyber Security , App/web development ,ART / VISUAL GRAPHICS are my main Domains</h3>
 
 - 🌱 currently learning DevOPS/PowerBI/ #Core AI & MACHINE LEARNING
-- 
+  
 - 💞️ I’m looking to collaborate with GOOD DEVELOPERS,DESIGNERS AND CONTENT CREATORS.
-- 
+  
 - 📫 How to reach me +91 7892955036 or sudeepgnaik01@gmail.com
 
 <h2><i>Also Follow me around the Web:</i><br>
