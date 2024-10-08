@@ -1,4 +1,4 @@
-<h2> Hi,I’m Sudeep professionally Software Engineer Passionately Graphic designer,Cinematographer,photographer,Script writer </h2>
+<h2> Hi,I’m Sudeep professionally Software Engineer Passionately Graphic designer, Cinematographer, photographer, Script writer </h2>
 <h3> 👀  UI/UX ,Cyber Security , App/web development ,ART / VISUAL GRAPHICS are my main Domains</h3>
 
 - 🌱 currently learning DevOPS/PowerBI/ #Core AI & MACHINE LEARNING
